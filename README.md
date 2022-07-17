@@ -6,7 +6,7 @@
 
 ##   **Github Stats**
 ![Sithija Github stats](https://github-readme-stats.vercel.app/api?username=Sithijatd&show_icons=true&theme=tokyonight)
-![Profile views](https://img.shields.io/github/watchers/Sithijatd/Sithijatd?label=Profile%20views&style=social)
+![Profile views](https://gpvc.arturio.dev/Sithijatd)
 
 ## Youtube Channel
  <p align="center"><a href="https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA"><img src="https://telegra.ph/file/dda94c64726542f7f4312.png" width="400"></a></p>
@@ -17,7 +17,7 @@
 
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px> <img align="left" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" width=120px>
 
-![Profile views](https://gpvc.arturio.dev/Sithijatd)
+
 
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="100%" >
