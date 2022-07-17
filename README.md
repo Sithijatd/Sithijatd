@@ -17,7 +17,7 @@
 
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px> <img align="left" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" width=120px>
 
-![Profile views](https://gpvc.arturio.dev/Sithijadewmina)
+![Profile views](https://gpvc.arturio.dev/Sithijatd)
 
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="100%" >
