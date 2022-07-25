@@ -2,10 +2,10 @@
 <h1 align="center"><a href="https://github.com/Sithijatd"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&color=2494F7&size=25&center=true&lines=Hello+I'm+Sithijatd"></a></h1>
 
 ##   **Github Stats**
-- ![Sithija Github stats](https://github-readme-stats.vercel.app/api?username=Sithijatd&show_icons=true&theme=tokyonight)
+ ![Sithija Github stats](https://github-readme-stats.vercel.app/api?username=Sithijatd&show_icons=true&theme=tokyonight)
 <a href="https://github.com/Sithijatd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithijatd&layout=compact&theme=react&hide_border=true" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sithijatd&theme=dark" width="50%" >
-- ![Profile views](https://gpvc.arturio.dev/Sithijatd)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sithijatd&theme=dark" width="75%" >
+ ![Profile views](https://gpvc.arturio.dev/Sithijatd)
 <img width="50%" align="Left" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ## Youtube Channel
