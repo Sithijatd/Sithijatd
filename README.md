@@ -7,6 +7,7 @@
 ##   **Github Stats**
 ![Sithija Github stats](https://github-readme-stats.vercel.app/api?username=Sithijatd&show_icons=true&theme=tokyonight)
 ![Profile views](https://gpvc.arturio.dev/Sithijatd)
+<a href="https://github.com/Sithijatd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithijatd&layout=compact&theme=react&hide_border=true" /> 
 
 ## Youtube Channel
  <p align="center"><a href="https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA"><img src="https://telegra.ph/file/dda94c64726542f7f4312.png" width="400"></a></p>
