@@ -3,10 +3,10 @@
 
 ##   **Github Stats**
 <img width="50%" align="Left" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-![Sithija Github stats](https://github-readme-stats.vercel.app/api?username=Sithijatd&show_icons=true&theme=tokyonight)
+- ![Sithija Github stats](https://github-readme-stats.vercel.app/api?username=Sithijatd&show_icons=true&theme=tokyonight)
 <a href="https://github.com/Sithijatd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithijatd&layout=compact&theme=react&hide_border=true" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sithijatd&theme=dark" width="50%" >
-![Profile views](https://gpvc.arturio.dev/Sithijatd)
+- ![Profile views](https://gpvc.arturio.dev/Sithijatd)
 
 ## Youtube Channel
  <p align="center"><a href="https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA"><img src="https://telegra.ph/file/dda94c64726542f7f4312.png" width="400"></a></p>
