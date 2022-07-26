@@ -5,7 +5,7 @@
 <div>
  <p><img width="50%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></p>
  <p><img src="https://github-readme-stats.vercel.app/api?username=Sithijatd&show_icons=true&hide_border=true&theme=github_dark" width="60%" ></p>
- <p><a href="https://github.com/Sithijatd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithijatd&layout=compact&theme=react&hide_border=true" width="60%"/></p>
+ <p><a href="https://github.com/Sithijatd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithijatd&layout=compact&hide_border=true&theme=github_dark" width="60%"/></p>
  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sithijatd&theme=dark" width="60%" ></p>
  <p><img src="https://gpvc.arturio.dev/Sithijatd" width="30%" ></p>
 </div>
