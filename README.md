@@ -3,11 +3,11 @@
 
 ##   **Github Stats**
 <div>
+ <img width="50%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <img src="https://github-readme-stats.vercel.app/api?username=Sithijatd&show_icons=true&theme=tokyonight" width="60%" >
 <a href="https://github.com/Sithijatd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithijatd&layout=compact&theme=react&hide_border=true" width="60%"/> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sithijatd&theme=dark" width="60%" >
-<img src="https://gpvc.arturio.dev/Sithijatd" width="30%" >
-<img width="50%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+ <p><img src="https://gpvc.arturio.dev/Sithijatd" width="30%" ></p>
  </div>
  
 ## Youtube Channel
