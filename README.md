@@ -3,8 +3,8 @@
 
 ##   **Github Stats**
  ![Sithija Github stats](https://github-readme-stats.vercel.app/api?username=Sithijatd&show_icons=true&theme=tokyonight)
-<a href="https://github.com/Sithijatd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithijatd&layout=compact&theme=react&hide_border=true" width="90%"/> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sithijatd&theme=dark" width="90%" >
+<a href="https://github.com/Sithijatd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithijatd&layout=compact&theme=react&hide_border=true" width="80%"/> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sithijatd&theme=dark" width="80%" >
  ![Profile views](https://gpvc.arturio.dev/Sithijatd)
 <img width="50%" align="Left" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
