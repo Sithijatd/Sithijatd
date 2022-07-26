@@ -20,4 +20,4 @@
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px> <img align="left" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" width=120px>
 
 ## Playing
-<br> [![Spotify](https://sporty-nu.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+[![Spotify](https://sithija-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/Sithijatd)
