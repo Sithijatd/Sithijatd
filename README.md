@@ -2,13 +2,14 @@
 <h1 align="center"><a href="https://github.com/Sithijatd"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&color=2494F7&size=25&center=true&lines=Hello+I'm+Sithijatd"></a></h1>
 
 ##   **Github Stats**
- ![Sithija Github stats](https://github-readme-stats.vercel.app/api?username=Sithijatd&show_icons=true&theme=tokyonight)
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=Sithijatd&show_icons=true&theme=tokyonight" width="60%" >
 <a href="https://github.com/Sithijatd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithijatd&layout=compact&theme=react&hide_border=true" width="60%"/> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sithijatd&theme=dark" width="60%" >
  ![Profile views](https://gpvc.arturio.dev/Sithijatd)
 <img width="50%" align="Left" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
+ </div>
+ 
 ## Youtube Channel
  <p align="center"><a href="https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA"><img src="https://telegra.ph/file/dda94c64726542f7f4312.png" width="400"></a></p>
 <p align="center"></P>
