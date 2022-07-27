@@ -7,16 +7,15 @@
  <p><img src="https://github-readme-stats.vercel.app/api?username=Sithijatd&show_icons=true&hide_border=true&theme=github_dark" width="60%" ></p>
  <p><a href="https://github.com/Sithijatd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithijatd&layout=compact&hide_border=true&theme=github_dark" width="60%"/></p>
  <p><img src="https://github-readme-streak-stats.herokuapp.com?user=Sithijatd&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%" ></p>
- 
+ <p><img src="https://gpvc.arturio.dev/Sithijatd" width="30%" ></p>
+</div>
+
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
 ![Metrics](https://metrics.lecoq.io/Janithsadanuwan?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul)
 
 </details>
- 
- <p><img src="https://gpvc.arturio.dev/Sithijatd" width="30%" ></p>
-</div>
 
 ## 📣Youtube Channel
  <p align="left"><a href="https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA"><img src="https://telegra.ph/file/dda94c64726542f7f4312.png" width="400"></a></p>
