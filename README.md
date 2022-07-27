@@ -10,8 +10,6 @@
  <p><img src="https://gpvc.arturio.dev/Sithijatd" width="30%" ></p>
 </div>
 
-<p><img src="https://metrics.lecoq.io/Sithijatd?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul" width="60%" ></p>
-
 ## 📣Youtube Channel
  <p align="left"><a href="https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA"><img src="https://telegra.ph/file/dda94c64726542f7f4312.png" width="400"></a></p>
  <p align="center"></P>
@@ -23,3 +21,7 @@
 
 ## 🎧Now Playing
 [![Spotify](https://sithijatd-spotify.vercel.app/api/spotify/?background_color=030000&)](https://open.spotify.com/user/314go74k2btcl5hh7zvo7rr62siu)
+
+
+
+<p><img src="https://metrics.lecoq.io/Sithijatd?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul" width="60%" ></p>
