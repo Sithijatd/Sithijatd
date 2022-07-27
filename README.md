@@ -7,6 +7,13 @@
  <p><img src="https://github-readme-stats.vercel.app/api?username=Sithijatd&show_icons=true&hide_border=true&theme=github_dark" width="60%" ></p>
  <p><a href="https://github.com/Sithijatd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithijatd&layout=compact&hide_border=true&theme=github_dark" width="60%"/></p>
  <p><img src="https://github-readme-streak-stats.herokuapp.com?user=Sithijatd&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%" ></p>
+<details>
+    <summary>&#127942 <b>View More GitHub Activity</b></summary><br/>
+
+<img src="https://metrics.lecoq.io/Sithijatd?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul" width="60%" ></p>
+
+</details>
+ 
  <p><img src="https://gpvc.arturio.dev/Sithijatd" width="30%" ></p>
 </div>
 
