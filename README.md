@@ -21,7 +21,3 @@
 
 ## 🎧Now Playing
 [![Spotify](https://sithijatd-spotify.vercel.app/api/spotify/?background_color=030000&)](https://open.spotify.com/user/314go74k2btcl5hh7zvo7rr62siu)
-
-
-
-<p><img src="https://metrics.lecoq.io/Sithijatd?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=IndiaStandardTime%2FIstanbul" width="60%" ></p>
