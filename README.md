@@ -24,6 +24,6 @@
 
 <div>
  
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7c185V5qGrIXwkle53KsnH?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<img style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7c185V5qGrIXwkle53KsnH?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
  
 </div>
