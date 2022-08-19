@@ -22,8 +22,4 @@
 ## 🎧Now Playing
 [![Spotify](https://sithijatd-spotify.vercel.app/api/spotify/?background_color=030000&)](https://open.spotify.com/user/314go74k2btcl5hh7zvo7rr62siu)
 
-<div>
- 
-<img style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7c185V5qGrIXwkle53KsnH?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
- 
-</div>
+<img style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7c185V5qGrIXwkle53KsnH?utm_source=generator" width="60%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
