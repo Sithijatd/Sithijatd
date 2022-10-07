@@ -20,5 +20,5 @@
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px> <img align="left" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" width=120px>
 
 ## 🎧Now Playing
-[![Spotify](https://sithijatd-spotify-n26vqso4o-sithijatd.vercel.app/api/spotify/?background_color=030000&)](https://open.spotify.com/user/314go74k2btcl5hh7zvo7rr62siu)
+[![Spotify](http://sithijatd-spotify.vercel.app/api/spotify/?background_color=030000&)](https://open.spotify.com/user/314go74k2btcl5hh7zvo7rr62siu)
 
