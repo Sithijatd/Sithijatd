@@ -10,11 +10,11 @@
  <p><img src="https://gpvc.arturio.dev/Sithijatd" width="30%" ></p>
 </div>
 ### My fev Tools & Languages 💫
- - <a href="https://cloud.google.com"><img src="https://img.icons8.com/fluency/48/000000/google-cloud.png"/></a>
- - <a href="https://heroku.com"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
- - <a href="https://www.mongodb.com"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
- - <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
- - <a href="https://www.w3.org/html"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+- <a href="https://cloud.google.com"><img src="https://img.icons8.com/fluency/48/000000/google-cloud.png"/></a>
+- <a href="https://heroku.com"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
+- <a href="https://www.mongodb.com"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+- <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
+- <a href="https://www.w3.org/html"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
   
 ## 📣Youtube Channel
  <p align="left"><a href="https://youtube.com/channel/UCFH_E0cu7U8GMjEJGnSvYjA"><img src="https://telegra.ph/file/dda94c64726542f7f4312.png" width="400"></a></p>
